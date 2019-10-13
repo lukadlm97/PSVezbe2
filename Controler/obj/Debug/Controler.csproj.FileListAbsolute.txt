@@ -1,0 +1,11 @@
+C:\Users\Luka\source\repos\Projektovanje softvera\Controler\bin\Debug\Controler.dll
+C:\Users\Luka\source\repos\Projektovanje softvera\Controler\bin\Debug\Controler.pdb
+C:\Users\Luka\source\repos\Projektovanje softvera\Controler\bin\Debug\Domen.dll
+C:\Users\Luka\source\repos\Projektovanje softvera\Controler\bin\Debug\StorageUsers.dll
+C:\Users\Luka\source\repos\Projektovanje softvera\Controler\bin\Debug\Domen.pdb
+C:\Users\Luka\source\repos\Projektovanje softvera\Controler\bin\Debug\StorageUsers.pdb
+C:\Users\Luka\source\repos\Projektovanje softvera\Controler\obj\Debug\Controler.csprojAssemblyReference.cache
+C:\Users\Luka\source\repos\Projektovanje softvera\Controler\obj\Debug\Controler.csproj.CoreCompileInputs.cache
+C:\Users\Luka\source\repos\Projektovanje softvera\Controler\obj\Debug\Controler.csproj.CopyComplete
+C:\Users\Luka\source\repos\Projektovanje softvera\Controler\obj\Debug\Controler.dll
+C:\Users\Luka\source\repos\Projektovanje softvera\Controler\obj\Debug\Controler.pdb

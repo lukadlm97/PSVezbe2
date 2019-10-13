@@ -1,0 +1,17 @@
+C:\Users\Luka\source\repos\Projektovanje softvera\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Luka\source\repos\Projektovanje softvera\Calculator\bin\Debug\Calculator.exe
+C:\Users\Luka\source\repos\Projektovanje softvera\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Luka\source\repos\Projektovanje softvera\Calculator\bin\Debug\Domen.dll
+C:\Users\Luka\source\repos\Projektovanje softvera\Calculator\bin\Debug\Domen.pdb
+C:\Users\Luka\source\repos\Projektovanje softvera\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Luka\source\repos\Projektovanje softvera\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Luka\source\repos\Projektovanje softvera\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Luka\source\repos\Projektovanje softvera\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Luka\source\repos\Projektovanje softvera\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Luka\source\repos\Projektovanje softvera\Calculator\obj\Debug\Calculator.csproj.CopyComplete
+C:\Users\Luka\source\repos\Projektovanje softvera\Calculator\obj\Debug\Calculator.exe
+C:\Users\Luka\source\repos\Projektovanje softvera\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Luka\source\repos\Projektovanje softvera\Calculator\bin\Debug\Controler.dll
+C:\Users\Luka\source\repos\Projektovanje softvera\Calculator\bin\Debug\StorageUsers.dll
+C:\Users\Luka\source\repos\Projektovanje softvera\Calculator\bin\Debug\Controler.pdb
+C:\Users\Luka\source\repos\Projektovanje softvera\Calculator\bin\Debug\StorageUsers.pdb

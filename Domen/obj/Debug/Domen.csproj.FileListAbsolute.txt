@@ -1,0 +1,6 @@
+C:\Users\Luka\source\repos\Projektovanje softvera\Domen\bin\Debug\Domen.dll
+C:\Users\Luka\source\repos\Projektovanje softvera\Domen\bin\Debug\Domen.pdb
+C:\Users\Luka\source\repos\Projektovanje softvera\Domen\obj\Debug\Domen.csprojAssemblyReference.cache
+C:\Users\Luka\source\repos\Projektovanje softvera\Domen\obj\Debug\Domen.csproj.CoreCompileInputs.cache
+C:\Users\Luka\source\repos\Projektovanje softvera\Domen\obj\Debug\Domen.dll
+C:\Users\Luka\source\repos\Projektovanje softvera\Domen\obj\Debug\Domen.pdb
